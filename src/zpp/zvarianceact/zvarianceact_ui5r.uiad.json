@@ -1,0 +1,34 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Varience of Activity",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zvarianceact"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_D8C1912B0C1D4F0BAA92DED2953D28F974439ECE_TM",
+    "semanticObject": "zvarianceact",
+    "action": "Display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_D8C1912B0C1D4F0BAA92DED2953D28F974439ECE_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Varience of Activity",
+        "subtitle": "zvarianceact"
+      }
+    }
+  ]
+}

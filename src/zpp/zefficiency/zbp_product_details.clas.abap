@@ -1,0 +1,5 @@
+CLASS zbp_product_details DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zproduct_details.
+ENDCLASS.
+
+CLASS zbp_product_details IMPLEMENTATION.
+ENDCLASS.

@@ -1,0 +1,5 @@
+CLASS zbp_daily_prod_mst DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zdaily_prod_mst.
+ENDCLASS.
+
+CLASS zbp_daily_prod_mst IMPLEMENTATION.
+ENDCLASS.
